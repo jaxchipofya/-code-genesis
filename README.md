@@ -1,4 +1,4 @@
-# CODE GENESIS REPOSITORY
+### &emsp;&emsp;&emsp;CODE GENESIS
 
 &emsp; &emsp; Code Repository for the code genesis telegram and youtube channels
 <br>

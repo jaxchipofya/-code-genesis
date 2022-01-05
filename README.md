@@ -1,5 +1,5 @@
 ### &emsp;&emsp;&emsp;CODE GENESIS
 
-&emsp; &emsp; Code Repository for the code genesis telegram and youtube channels
+&emsp; Code Repository for the code genesis telegram and youtube channels
 <br>
-&emsp; &emsp;This repository has programs in different programming languages and all code is free to get and modify
+&emsp; This repository has programs in different programming languages and all code is free to get and modify
